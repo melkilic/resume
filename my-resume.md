@@ -1,6 +1,5 @@
 # Melike Kilic
-#### Houston, TX 77031 | 210-237-1221 |
-#### Email: melike180400@gmail.com | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
+#### Houston, TX 77031 | 210-237-1221 | Email: melike180400@gmail.com | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
 #### Fully Work Authorized. No Visa Sponsorship Required.
 
 ### FULL STACK SOFTWARE ENGINEER
