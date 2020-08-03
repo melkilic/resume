@@ -1,11 +1,11 @@
 # Melike Kilic
 #### Houston, TX 77031 | 210-237-1221 |
-#### Email: ​melike180400@gmail.com​| Github: ​https://github.com/melkilic​| Linkedin: ​https://www.linkedin.com/in/melike-kilic/ 
+#### [Email](melike180400@gmail.com) | Github: https://github.com/melkilic| Linkedin: https://www.linkedin.com/in/melike-kilic/ 
 #### Fully Work Authorized.
 ### FULL STACK SOFTWARE ENGINEER
-#### Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development.
+#### Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development. Fast learner, aspiring and versatile software developer efficient problem solving skills.
 ### TECHNICAL SKILLS
-#### Ruby on Rails, ActiveRecord, Sinatra​, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
+#### Ruby on Rails, ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
 ### TECHNICAL PROJECTS
 ### Covid TrackR([Demo](https://www.youtube.com/watch?v=7Sklsae1jFA&t=10s))
 #### Want to see the latest updates and daily information about Covid-19 in the U.S? Check this app out!
