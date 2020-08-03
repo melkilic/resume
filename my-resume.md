@@ -14,7 +14,7 @@ Ruby on Rails, ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, E
 ##### Ruby on Rails, React-Redux, Redux Persist, Material UI, React Bootstrap, Ant Design, React Chart.js, React Google Maps, Mapbox GL
 * Integrated five restful APIs to grab Covid-19 information of the U.S.
 * Developed and maintained various charts using responsive design and theme.
-* Implemented the functionality to show related hospitals on the map to the inputs added to the search bar.
+* Implemented the functionality to show nearby hospitals' information on the map according to the inputs typed in the search bar.
 ### Shoptastic([Demo](https://www.youtube.com/watch?v=cYX3iiiI_n8&t=1s))
 #### Search our database of products by categories, save your favorites to the cart, display the locations of our stores, and enjoy shopping on Shoptastic!
 * Technologies used: Ruby on Rails, React, React Google Maps, React Bootstrap, React Semantic UI
