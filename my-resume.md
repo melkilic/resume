@@ -1,11 +1,12 @@
 # Melike Kilic
 #### Houston, TX 77031 | 210-237-1221 |
-#### Email: melike180400@gmail.com | Linkedin: https://www.linkedin.com/in/melike-kilic/ | [Medium](https://medium.com/@melikekilic)
+#### Email: melike180400@gmail.com | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
 #### Fully Work Authorized.
 ### FULL STACK SOFTWARE ENGINEER
 #### Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development. Fast learner, aspiring and versatile software developer efficient problem solving skills.
 ### TECHNICAL SKILLS
-#### Ruby on Rails, ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
+#### 1. Ruby on Rails
+1. ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
 ### TECHNICAL PROJECTS
 ### Covid TrackR([Demo](https://www.youtube.com/watch?v=7Sklsae1jFA&t=10s))
 #### Want to see the latest updates and daily information about Covid-19 in the U.S? Check this app out!
@@ -36,8 +37,10 @@
 * Trained 30+ students to work toward self-discipline and responsibility.
 * Created a positive classroom environment conducive to learning and appropriate for the physical, social, and emotional development of students.
 ### EDUCATION
-#### Flatiron School,​ ​Houston, TX
+#### **Flatiron School, Houston, TX**
+*06/2020*
 *Software Engineering Immersive Program*
-#### Ankara Turk Telekom Social Sciences High School, Ankara, Turkey 
+#### **Ankara Turk Telekom Social Sciences High School, Ankara, Turkey** <br>
+*09/2014 - 05/2017*
 *International Baccalaureate Diploma Program*
-06/2020 09/2014 - 05/2017
+
