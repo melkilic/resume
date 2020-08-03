@@ -1,10 +1,10 @@
 # Melike Kilic
 #### Houston, TX 77031 | 210-237-1221 |
 #### Email: melike180400@gmail.com | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
-#### Fully Work Authorized. No Visa Sponsorship Required
+#### Fully Work Authorized. No Visa Sponsorship Required.
 
 ### FULL STACK SOFTWARE ENGINEER
-#### Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development.
+ Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development.
 ### TECHNICAL SKILLS
 #### 
 Ruby on Rails, ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
