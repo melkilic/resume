@@ -1,12 +1,12 @@
 # Melike Kilic
-#### Houston, TX 77031 | 832-324-2374 | Email: melike180400@gmail.com | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
+#### Houston, TX 77031 | 832-324-2374 | Email: mk.melikekilic@gmail.com | [Portfolio](http://melikekilic.surge.sh/) | [Linkedin](https://www.linkedin.com/in/melike-kilic/) | [Medium](https://medium.com/@melikekilic)
 #### Fully Work Authorized. No Visa Sponsorship Required.
 
 ### FULL STACK SOFTWARE ENGINEER
- Junior Software Engineer with experience in Full-Stack Web Development specializing in Front-End Web Development.
+ Detail-oriented and driven entry-level software engineering professional with organized nature, customer-focused mindset, and good critical thinking skills. Talented troubleshooter and problem-solver.
 ### TECHNICAL SKILLS
 #### 
-Ruby on Rails, ActiveRecord, Sinatra, Javascript, React, Bootstrap, CSS, HTML, ES6, ​SQL, Git/Github, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
+Javascript, React, CSS, HTML, ​ Git/Github, ​Ruby on Rails, ​ActiveRecord, Sinatra​, Bootstrap, ES6, ​SQL, Object-Oriented Programming (OOP), Test-Driven Development, MVC, REST API, Technical Writing, Debugging
 ### TECHNICAL PROJECTS
 ### 1. Covid TrackR([Demo](https://www.youtube.com/watch?v=7Sklsae1jFA&t=10s))
 #### Want to see the latest updates and daily information about Covid-19 in the U.S? Check this app out!
@@ -31,10 +31,10 @@ Ruby on Rails, React-Redux, Redux Persist, Material UI, React Bootstrap, Ant Des
 **Raindrop Foundation, San Antonio, TX** <br>
 *Volunteer/Teacher Assistant, 06/2019 - 03/2020*
 > A nonprofit organization founded by Muslim Turkish-Americans, which aims to build mutual understanding among people of diverse faiths and cultures, with the ultimate intention of contributing to global peace.
-* Used technology to strengthen the educational activity/learning process.
+* Partnered with teachers to plan and implement lessons following the school's curriculum, goals, objectives, and philosophies.
 * Planned and utilized appropriate instructional and learning strategies, activities, materials, and equipment that reflect the understanding of the learning styles and needs of students of 3 various age groups.
-* Trained 30+ students to work toward self-discipline and responsibility.
-* Created a positive classroom environment conducive to learning and appropriate for the physical, social, and emotional development of students.
+* Oversaw groups of up to 30 students at school and off-site locations, maintaining optimal safety and security.
+* Assigned grades for coursework and tests using the answer key, recorded results and informed teacher of performance.
 ### EDUCATION
 **Flatiron School, Houston, TX**<br>
 *Software Engineering Immersive Program, 06/2020*<br>
